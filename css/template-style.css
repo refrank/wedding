@@ -37,10 +37,10 @@ nav {
 	text-align: center;
 }
 .top-nav li a:hover, .top-nav li.active-item a, .top-nav .logo.active-item a:hover {
-	background: none repeat scroll 0 0 #00464f;
+	background: none repeat scroll 0 0 #732;
 }
 .top-nav li.logo a, .top-nav li.logo.active-item a, .top-nav .logo {
-	background: none repeat scroll 0 0 #2fcbe0;
+	background: none repeat scroll 0 0 #F65;
 }
 nav ul li ul li {
 	text-align: left;
@@ -57,6 +57,19 @@ nav ul li ul li {
 #fourth-block p {
 	color: #fff;
 }
+
+#zeroeth-block .celebrate-their-marriage:hover {
+	cursor: default;
+}
+
+#zeroeth-block .celebrate-their-marriage:hover .marriage-after:before {
+	content: 'maiwwage';
+}
+
+#zeroeth-block .celebrate-their-marriage:hover .marriage {
+	display: none;
+}
+
 #first-block, #second-block, #third-block, #fourth-block {
 	text-align: center;
 	padding: 4.5em 0;
@@ -77,7 +90,7 @@ nav ul li ul li {
 	background: rgb(0, 30, 34);
 }
 footer {
-	background: none repeat scroll 0 0 #2fcbe0;
+	background: none repeat scroll 0 0 #F65;
 	padding: 1.5em 0;
 }
 footer p, footer a:link, footer a:visited, footer a:hover {
@@ -105,7 +118,7 @@ footer p, footer a:link, footer a:visited, footer a:hover {
 	padding: 0.625em 0.8em;
 }
 #first-block i {
-	background: none repeat scroll 0 0 #2fcbe0;
+	background: none repeat scroll 0 0 #F65;
 	border-radius: 100px;
 	color: #fff;
 	display: block;
@@ -142,7 +155,7 @@ section h1 {
 	color: #fff;
 }
 a.button {
-	background: none repeat scroll 0 0 #2fcbe0;
+	background: none repeat scroll 0 0 #F65;
 	border: 0 none;
 	border-radius: 5px;
 	color: rgb(0, 30, 34);
@@ -152,7 +165,7 @@ a.button {
 	text-transform: uppercase;
 }
 #head {
-	background: none repeat scroll 0 0 rgba(0, 30, 34, .35);
+	background: none repeat scroll 0 0 rgba(0, 0, 0, .0);
 	padding: 9em 0 5em;
 	text-align: center;
 }
@@ -208,7 +221,7 @@ form.customform button {
 	-webkit-transition: background 0.20s linear 0s;
 }
 form.customform button:hover {
-	background: none repeat scroll 0 0 #2fcbe0;
+	background: none repeat scroll 0 0 #F65;
 }
 form.customform input, form.customform select, form.customform textarea {
 	border-radius: 5px;
