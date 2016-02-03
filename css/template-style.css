@@ -172,9 +172,11 @@ a.button {
 }
 #content {
 	background: none repeat scroll 0 0 #fff;
-	padding: 5em 0;
+	padding: .5em 0em 4em 0em;
 	text-align: center;
-	border-bottom: 1px solid #f0f0f0;
+	font-size: 1.2em;
+	color: #888;
+	
 }
 #content h2 {
 	font-size: 1.5em;
