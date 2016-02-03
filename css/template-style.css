@@ -74,6 +74,10 @@ nav ul li ul li {
 	text-align: center;
 	padding: 4.5em 0;
 }
+#weekend-block{
+	text-align: center;
+	padding: 0 0 4em 0;
+}
 #carousel {
 	background: #fff;
 }
@@ -134,8 +138,8 @@ section h2 {
 }
 p.subtitile {
 	color: #888;
-	margin: 0 0 3.5em;
-	font-size: 0.89em
+	margin: 0 0 3.5em 0;
+	font-size: 0.89em;
 }
 section h3 {
 	font-size: 1.5em;
@@ -172,11 +176,15 @@ a.button {
 }
 #content {
 	background: none repeat scroll 0 0 #fff;
-	padding: .5em 0em 4em 0em;
+	padding: 3em 0em 4em 0em;
 	text-align: center;
-	font-size: 1.2em;
+}
+#weekend {
+	background: none repeat scroll 0 0 #fff;
+	padding: 0em 0em 4em 0em;
+	text-align: center;
 	color: #888;
-	
+	font-size: 1.2em;
 }
 #content h2 {
 	font-size: 1.5em;
