@@ -76,7 +76,7 @@ nav ul li ul li {
 }
 #weekend-block{
 	text-align: center;
-	padding: 0 0 4em 0;
+	padding: 0 0 0 0;
 }
 #carousel {
 	background: #fff;
@@ -181,7 +181,7 @@ a.button {
 }
 #weekend {
 	background: none repeat scroll 0 0 #fff;
-	padding: 0em 0em 4em 0em;
+	padding: 0em 0em 3em 0em;
 	text-align: center;
 	color: #888;
 	font-size: 1.2em;
